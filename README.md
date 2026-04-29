@@ -68,4 +68,7 @@ It is built using **Streamlit** and provides an interactive dashboard for genera
 ---
 
 ## 👨‍💻 Author
-**Chetan Trivedi** **Gagandeep Kaur** **Sagar Kamboj** **Yashmeet Kaur**
+- **Chetan Trivedi**
+- **Gagandeep Kaur**
+- **Sagar Kamboj**
+- **Yashmeet Kaur**
